@@ -5,7 +5,7 @@ This repository contains the code, preproccessed datasets, and intermediate data
 
 The original data are obtained from Stack Exchange site released in Sept 2019 available at https://archive.org/download/stackexchange/.
 
-### Requirments:
+## Requirments:
 Python 3.7.7 
 Tensorflow 2.1.0 
 Networkx 2.4
